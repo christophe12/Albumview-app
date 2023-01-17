@@ -4,5 +4,5 @@ An album view app i created while learnig React Native following a tutorial by *
 
 ## Authors
 
-* **Christophe Mutabazi** - [Personalwebsite](http://orbit.surge.sh/)
+* **Christophe Mutabazi**
 
